@@ -12,7 +12,7 @@ News App is a modern web application that provides users with the latest news fr
 
 - Click on a news article to read the full story.
 
-## Technologies Used 🏗️
+## Tech Stack 🛠️
 - React.js for frontend 
 - News API for fetching news articles
 - Bootstrap / Tailwind CSS for styling
